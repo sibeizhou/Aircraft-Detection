@@ -1,0 +1,19 @@
+__pycache__/
+.ipynb_checkpoints/
+
+# Local datasets and training outputs
+data/
+output/
+outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Generated submissions
+submission.csv
+*.csv
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,16 @@
+# Core scientific stack
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+tqdm
+scikit-learn
+
+# Deep learning
+torch
+torchvision
+
+# Detectron2 must match your PyTorch/CUDA version.
+# Install it from the official Detectron2 instructions:
+# https://detectron2.readthedocs.io/en/latest/tutorials/install.html
